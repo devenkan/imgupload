@@ -1,0 +1,11 @@
+create database image and table deven
+
+create  2 rows
+one for image varchar(200) blob(recommended)
+and  another for text char(500)
+
+create folder img in htdocs/imgupload
+inside imgupload create folder usersimg/
+
+
+
